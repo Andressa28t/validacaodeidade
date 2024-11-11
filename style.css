@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: rgb(180, 245, 137);
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    text-shadow: 1px 2px 3px red;
+}
+header{
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+}
+.index{
+    color: white;
+    text-align: right;
+    font-family: "Spicy Rice", serif;
+    width: 30%;
+    padding-left: 35%;
+    font-size: 40px;
+    text-shadow: 1px 1px 3px rgb(153, 253, 153);
+}
+#inicial{
+    border-radius: 20px;
+}
+
+h2{
+    text-align: center;
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-size: 30px;
+}
+.textH2{
+    text-align: center;
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+}
+ input{
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    width: 60px;
+ }
+ .cta-button{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 20px
+ }
+ .container{
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+ }
+ 
+ .pag2{
+    text-align: center;
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+}
+.text2{
+    text-align: center;
+    font-family:"Spicy Rice", serif; 
+    font-weight: 100;
+}
+
+ 
